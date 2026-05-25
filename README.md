@@ -10,7 +10,7 @@
 ╚══════╝╚══════╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝     ╚═════╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝   ╚═╝
 ```
 
-### Eduardo Torres · Tijuana, B.C. · MX
+### Eduardo Torres · Tecate, B.C. · MX
 
 *Systems Developer by day. Music producer by night. Content creator in between.*  
 *Desarrollador de sistemas de día. Productor musical de noche. Creador de contenido en el medio.*
@@ -22,6 +22,12 @@
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/sevencircuit)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@sevencircuit)
 
+<br>
+
+<a href="https://buymeacoffee.com/sevencircuit" target="_blank">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Apoya mi trabajo en Buy Me a Coffee&emoji=&slug=sevencircuit&button_colour=FFDD00&font_color=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" />
+</a>
+
 </div>
 
 ---
@@ -30,11 +36,8 @@
 
 ```yaml
 name:       Eduardo Torres
-alias:      Ed
 location:   Tijuana, Baja California — MX
 role:       Systems Analyst & Web Developer
-education:  B.S. Computer Science — UABC
-languages:  Spanish (native) · English (professional)
 ```
 
 I build enterprise systems solo — no QA, no peer review, no safety net.  
@@ -97,6 +100,38 @@ Label:            Seven Circuit / 7C
 - 📡 Streaming live on weekends / Transmitiendo en vivo los fines de semana
 - 📚 Certifications in progress: PCAP-31-03 → AZ-900 → AZ-204
 - 🥋 Training BJJ / Entrenando BJJ
+
+---
+
+## 📸 Base de Operaciones / Environment
+
+<div align="center">
+  <img src="https://imagedelivery.net/WAmwaT6sTsVBteyc8KB59Q/f5d28462-9cb6-4e52-07b6-9f30e0975800/public" alt="Tecate, B.C. - Entorno" width="49%" style="border-radius: 8px;" />
+  <img src="https://imagedelivery.net/WAmwaT6sTsVBteyc8KB59Q/c891d142-a27d-4cbe-0593-6d2da8807c00/public" alt="Eduardo Torres - Desktop Setup" width="49%" style="border-radius: 8px;" />
+</div>
+
+---
+
+## �🔗 Directorio y Contacto
+
+| 🌐 Sitio Oficial y Soporte | 📻 Música, Catálogo y Beats |
+| :--- | :--- |
+| 🌍 [**Sitio Web**](https://sevencircuit.net/) | 📝 **BMI (Registro):** #551276885 |
+| 📧 [**Email** *(Negocios)*](mailto:productodigital@sevencircuit.net) | ☁️ [**SoundCloud** *(Beats)*](https://soundcloud.com/sevencircuit) |
+| 📱 [**WhatsApp Business**](https://wa.me/526651182273) | 🟢 [**Spotify** *(Album)*](https://open.spotify.com/album/5TgBQBPfiRA2RMMYB8Ti8X) |
+| ☕ [**PayPal** *(Apoyo Directo)*](https://paypal.me/sevencircuit) | 🛒 [**BeatStars**](https://www.beatstars.com/sevencircuit) \| [Colección](https://bsta.rs/mcOOUp) |
+| 💖 [**GitHub Sponsors**](https://github.com/sponsors/sevencircuit) | 🌳 [**Linktree** *(Todas las apps)*](https://linktr.ee/sevencircuit) |
+| 🟠 [**Patreon**](https://patreon.com/SevenCircuit) | |
+
+<br>
+
+| 🔴 Redes Sociales y Plataformas | ▶️ Streams & 💻 Dev |
+| :--- | :--- |
+| 📸 [**Instagram**](https://www.instagram.com/seven.circuit) | 📺 [**YouTube**](https://youtube.com/@seven_circuit) |
+| 🎵 [**TikTok**](https://www.tiktok.com/@seven_circuit) | 🟣 [**Twitch**](https://www.twitch.tv/sevencircuit) |
+| 📘 [**Facebook**](https://www.facebook.com/sevencircuit) | 🐙 [**GitHub**](https://github.com/sevencircuit) |
+| ✖️ [**X / Twitter**](https://twitter.com/etmx665) | 💼 [**LinkedIn**](https://mx.linkedin.com/in/eduardotorresmx) |
+| 📌 [**Pinterest** *(Tableros visuales)*](https://www.pinterest.com/seven_circuit/) | ✍️ [**Hashnode** *(Bitácora)*](https://sevencircuit.hashnode.dev/) |
 
 ---
 
